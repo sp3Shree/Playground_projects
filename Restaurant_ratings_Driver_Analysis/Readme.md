@@ -1,1 +1,1 @@
-Analysing driver that impact restaurants ratings using predictive models
+Analysing drivers that impact restaurants ratings using predictive models
