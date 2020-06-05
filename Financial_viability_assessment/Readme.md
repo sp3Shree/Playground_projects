@@ -1,1 +1,7 @@
-Implementing predicitve algorithms incorporating various financial metrics to assess bankruptcy of a firm.
+# Predictive Model to Classify the Bankruptcy Status of a Firm
+
+This project is for MGMT 571 - Data Mining at Krannert School of Management, developed by team Data4Breakfast: Abhinav Chanda, Pranay Khandelwal and Sachin Arakeri.
+
+The objective of the project was to develop a predictive model that combines various econometric measures to foresee a financial condition (bankrupt or not) of a firm based on a financial balance sheet data set available on Kaggle.
+
+We used multiple algorithms to generate accurate predictions and found out that a hyper-parameter tuned xGBoost algorithm blended with bagging algorithms (Random Forests) and generalized linear models (logistic and ridge regression) gave the most robust results. 
