@@ -1,6 +1,6 @@
 # Predictive Model to Classify the Bankruptcy Status of a Firm
 
-This project is for MGMT 571 - Data Mining at Krannert School of Management, developed by team Data4Breakfast: Abhinav Chanda, Pranay Khandelwal and Sachin Arakeri.
+This project is for MGMT 571 - Data Mining at Krannert School of Management, developed by team Data4Breakfast: Shreeansh Priyadarshi and Mohana Kodipak.
 
 The objective of the project was to develop a predictive model that combines various econometric measures to foresee a financial condition (bankrupt or not) of a firm based on a financial balance sheet data set available on Kaggle.
 
